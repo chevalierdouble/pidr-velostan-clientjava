@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="pidr_velostan_clientjava.jnlp">
+  <information>
+    <title>velostan</title>
+    <vendor>Unknown</vendor>
+    <description>pidr-velostan-clientjava</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="commons-codec-1.9.jar" size="263965" download="eager" />
+    <jar href="commons-logging-1.2.jar" size="61829" download="eager" />
+    <jar href="fluent-hc-4.5.2.jar" size="31293" download="eager" />
+    <jar href="httpclient-4.5.2.jar" size="736658" download="eager" />
+    <jar href="httpcore-4.4.4.jar" size="326724" download="eager" />
+    <jar href="httpmime-4.5.2.jar" size="41029" download="eager" />
+    <jar href="java-json.jar" size="84697" download="eager" />
+    <jar href="mysql-connector-java-5.1.38-bin.jar" size="983914" download="eager" />
+    <jar href="pidr_velostan_clientjava.jar" size="61258" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="eu.telecomnancy.pidr_2016_velostan.App"  name="pidr-velostan-clientjava" />
+  <update check="background"/>
+</jnlp>

@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="pidr-velostan-clientjava">
+    <output-path>$PROJECT_DIR$/out/artifacts/pidr_velostan_clientjava</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="eu.telecomnancy.pidr_2016_velostan.App" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="velostan" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="pidr_velostan_clientjava.jar">
+        <element id="module-output" name="pidr-velostan-clientjava" />
+      </element>
+      <element id="library" level="project" name="java-json" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.38-bin" />
+      <element id="library" level="project" name="httpmime-4.5.2" />
+      <element id="library" level="project" name="httpcore-4.4.4" />
+      <element id="library" level="project" name="httpclient-4.5.2" />
+      <element id="library" level="project" name="fluent-hc-4.5.2" />
+      <element id="library" level="project" name="commons-codec-1.9" />
+      <element id="library" level="project" name="commons-logging-1.2" />
+    </root>
+  </artifact>
+</component>

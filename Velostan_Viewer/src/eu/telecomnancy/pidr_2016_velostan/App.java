@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * Created by thomasgauthey on 18/05/2016.
  */
-public class App extends Application{
+public class App extends Application {
 
     private Stage mainStage;
     private BorderPane rootLayout;
